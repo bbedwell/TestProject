@@ -1,0 +1,11 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^13.0.0"
+  }
+}
