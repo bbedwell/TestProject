@@ -9,7 +9,7 @@ server.route({
   method: 'GET',
   path: '/',
   handler: function(request, reply) {
-    reply('Ok - 12');
+    reply('Ok - 13');
   }
 });
 
